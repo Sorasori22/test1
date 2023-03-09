@@ -26,3 +26,7 @@ demo git
 git clone https://github.com/Sorasori22/test1.git
 or
 git pull
+
+5 undo file or cod
+========================
+git restore README.md
