@@ -10,4 +10,13 @@ demo git
 2 modify file to git server
 ===========================
 1 -> edit file with new content (README.md)
-2 -> 
+2 -> git add README.md
+3 -> git commit -m "update readme file"
+4 -> git push
+
+3 delete file from git
+===========================
+1 -> delete file from project (test.html)
+2 -> git rm test.html
+3 -> git commit -m "remove test.html"
+4 -> git push
