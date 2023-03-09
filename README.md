@@ -30,3 +30,7 @@ git pull
 5 undo file or cod
 ========================
 git restore README.md
+
+6 commit push through vs code
+===============================
+icon 3 git icon
