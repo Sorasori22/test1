@@ -20,3 +20,9 @@ demo git
 2 -> git rm test.html
 3 -> git commit -m "remove test.html"
 4 -> git push
+
+4 get latest code from git server
+==================================
+git clone https://github.com/Sorasori22/test1.git
+or
+git pull
